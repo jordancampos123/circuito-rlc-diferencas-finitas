@@ -1,0 +1,9 @@
+Bibliotecas importadas diretamente pelo código
+
+numpy==2.5.2
+matplotlib==3.11.1
+
+Ambiente de notebook identificado no projeto enviado
+jupyterlab==4.6.3
+ipykernel==7.3.0
+nbformat==5.11.0

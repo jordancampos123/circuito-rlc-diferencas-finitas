@@ -1,0 +1,9 @@
+parametro,valor,unidade
+R,20.0,ohm
+L,10.0,H
+C,0.004,F
+v0,0.0,V
+vp0,-1125.0,V/s
+t0,0.0,s
+tf,3.0,s
+h_ref,0.01,s
